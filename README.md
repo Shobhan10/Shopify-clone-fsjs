@@ -15,8 +15,8 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
 
 - It took around _13 hours_ to complete.
 
+- Live Link:- [Shopify clone](https://shopify-clone-fsjs.netlify.app/)
+
 ### Screenshot
 
 ![Shopify-clone Screenshot](./shopify-clone.jpeg)
-
-- Live Link:- [Shopify clone](https://shopify-clone-fsjs.netlify.app/)
